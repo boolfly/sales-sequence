@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!--
+ /************************************************************
+ * *
+ *  * Copyright © Boolfly. All rights reserved.
+ *  * See COPYING.txt for license details.
+ *  *
+ *  * @author    info@boolfly.com
+ * *  @project   Sales Sequence
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Boolfly_SalesSequence::profile" title="Sales Sequence" module="Boolfly_SalesSequence"
+             parent="Magento_Sales::sales_operation" sortOrder="678" action="bf_orderseq/profile/index" resource="Boolfly_SalesSequence::profile"/>
+    </menu>
+</config>
