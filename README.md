@@ -1,4 +1,4 @@
-# sales-sequence
+# Sales Sequence
 
 This module is quite simple. It allows you to add the prefix and suffix for the sales documents: orders, invoices, shipments, and credit memos. It provides an friendly UI to manage sales number for all stores.
 
