@@ -47,9 +47,9 @@ class DataProvider extends ModifierPoolDataProvider
 
     /**
      * DataProvider constructor.
-     * @param $name
-     * @param $primaryFieldName
-     * @param $requestFieldName
+     * @param string $name
+     * @param string $primaryFieldName
+     * @param string $requestFieldName
      * @param DataPersistorInterface $dataPersistor
      * @param ProfileFactory $profileFactory
      * @param MetaFactory $metaFactory
