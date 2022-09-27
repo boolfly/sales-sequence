@@ -3,7 +3,7 @@
   "description": "Boolfly Sales Sequence Module",
   "require": {
     "php": "~7.0|~7.1|~7.2|~7.3|~7.4|~8.1",
-    "boolfly/module-base": "^1.0.0"
+    "boolfly/module-base": "dev-bugfix"
   },
   "type": "magento2-module",
   "license": [
